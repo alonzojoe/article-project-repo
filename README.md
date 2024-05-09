@@ -13,6 +13,12 @@
 
 ## Screenshots
 
+![Screenshot 1](screenshots/Login.png)
+_Screenshot 1: Login Page_
+
+![Screenshot 2](screenshots/validatelogin.png)
+_Screenshot 2: Login Page validation_
+
 ## Technologies and Frameworks Used
 
 - HTML5
